@@ -1,17 +1,17 @@
-# Paytm-ui-design
-<h1 align="center"> Paytm </h1>
+# redesign Paytm ui
+<h1 align="center"> Paytm ui </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 
-  HomePage                 |    
-:-------------------------:|:-------------------------:|
-<img src="https://github.com/user-attachments/assets/81998944-326f-4e96-aaa2-487d22586439"/>
+    Homepage  
+
+<img src="https://github.com/user-attachments/assets/8a1e7712-0328-4daa-adcd-d5e0b60e324d"/>
 
 
-[Figma file- Link ](https://www.figma.com/design/TusyWjnrIG2ntD67ny0stf/Assignment?t=hOaDPb5iD3K7zzR2-1)
+[Figma file- Link ](https://www.figma.com/design/EzggRyendKP27xUH6DmnbQ/assiment?t=RKO7jvrvb3V1dPKZ-1)
 
 
 
