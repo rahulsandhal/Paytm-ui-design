@@ -11,10 +11,11 @@
 <img src="https://github.com/user-attachments/assets/8a1e7712-0328-4daa-adcd-d5e0b60e324d"/>
 
 
-[Figma file- Link ](https://www.figma.com/design/EzggRyendKP27xUH6DmnbQ/assiment?t=RKO7jvrvb3V1dPKZ-1)
+[Figma  prototype file- Link ](https://www.figma.com/proto/TusyWjnrIG2ntD67ny0stf/Assignment?t=SUceso3YTvUaqGGi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-37&starting-point-node-id=1%3A53)
 
 
 
 
 
 Thanks for visiting my portfolio! 😊
+
